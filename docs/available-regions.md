@@ -1,0 +1,228 @@
+# Available Regions for Privnode for Consumers Service
+
+If you reached this page while attempting to access 
+Privnode for Consumers, it may be due to one of the 
+following reasons:
+
+- **Regional restrictions**: Privnode for Consumers 
+is not available in your region. Refer to the section 
+below for a list of supported regions.
+- **Age requirements**: You do not meet the minimum age 
+requirement (18+) to access this service.
+- **Account verification**: You may have access to the 
+service, but you haven't yet verified your age on your 
+Privnode/PrivHub Account.
+
+For further details regarding requirements, review our 
+Terms of Service.
+
+## Available regions
+
+The Privnode for Consumer and services are available in 
+the following countries and territories. If you're not 
+in one of these countries or territories, try the 
+Privnode for Enterprise Platform:
+
+- American Samoa
+- Andorra
+- Angola
+- Anguilla
+- Antarctica
+- Antigua and Barbuda
+- Armenia
+- Aruba
+- Australia
+- Austria
+- Azerbaijan
+- The Bahamas
+- Bahrain
+- Barbados
+- Belgium
+- Belize
+- Benin
+- Bermuda
+- Bhutan
+- Bolivia
+- Bosnia and Herzegovina
+- Botswana
+- British Indian Ocean Territory
+- British Virgin Islands
+- Brunei
+- Burkina Faso
+- Burundi
+- Cabo Verde
+- Cambodia
+- Cameroon
+- Canada
+- Caribbean Netherlands
+- Cayman Islands
+- Central African Republic
+- Chad
+- Chile
+- Christmas Island
+- Cocos (Keeling) Islands
+- Colombia
+- Comoros
+- Cook Islands
+- Costa Rica
+- Côte d'Ivoire
+- Croatia
+- Curaçao
+- Czech Republic
+- Democratic Republic of the Congo
+- Denmark
+- Djibouti
+- Dominica
+- El Salvador
+- Equatorial Guinea
+- Eritrea
+- Estonia
+- Eswatini
+- Ethiopia
+- Falkland Islands (Islas Malvinas)
+- Faroe Islands
+- Fiji
+- Finland
+- France
+- French Guiana
+- Gabon
+- The Gambia
+- Georgia
+- Germany
+- Ghana
+- Gibraltar
+- Greece
+- Greenland
+- Grenada
+- Guam
+- Guatemala
+- Guernsey
+- Guinea
+- Guinea-Bissau
+- Guyana
+- Haiti
+- Heard Island and McDonald Islands
+- Honduras
+- Hungary
+- Iceland
+- India
+- Iraq
+- Ireland
+- Isle of Man
+- Israel
+- Italy
+- Jamaica
+- Japan
+- Jersey
+- Jordan
+- Kazakhstan
+- Kenya
+- Kiribati
+- Kosovo
+- Kuwait
+- Kyrgyzstan
+- Laos
+- Latvia
+- Lebanon
+- Lesotho
+- Liberia
+- Libya
+- Liechtenstein
+- Lithuania
+- Luxembourg
+- Malawi
+- Malaysia
+- Maldives
+- Mali
+- Malta
+- Marshall Islands
+- Mauritania
+- Mauritius
+- Mexico
+- Micronesia
+- Moldova
+- Monaco
+- Mongolia
+- Montenegro
+- Montserrat
+- Mozambique
+- Namibia
+- Nauru
+- Netherlands
+- New Caledonia
+- New Zealand
+- Nicaragua
+- Niger
+- Niue
+- Norfolk Island
+- Northern Mariana Islands
+- Norway
+- Oman
+- Palau
+- Palestine
+- Panama
+- Papua New Guinea
+- Paraguay
+- Philippines
+- Pitcairn Islands
+- Poland
+- Portugal
+- Puerto Rico
+- Qatar
+- Republic of Cyprus
+- Republic of the Congo
+- Romania
+- Rwanda
+- Réunion
+- Saint Barthélemy
+- Saint Helena, Ascension and Tristan da Cunha
+- Saint Kitts and Nevis
+- Saint Lucia
+- Saint Pierre and Miquelon
+- Saint Vincent and the Grenadines
+- Samoa
+- San Marino
+- São Tomé and Príncipe
+- Saudi Arabia
+- Senegal
+- Sierra Leone
+- Slovakia
+- Slovenia
+- Solomon Islands
+- Somalia
+- South Africa
+- South Georgia and the South Sandwich Islands
+- South Korea
+- South Sudan
+- Spain
+- Sudan
+- Suriname
+- Sweden
+- Switzerland
+- Tanzania
+- Thailand
+- Timor-Leste
+- Togo
+- Tokelau
+- Tonga
+- Trinidad and Tobago
+- Turkmenistan
+- Turks and Caicos Islands
+- Tuvalu
+- Uganda
+- United Arab Emirates
+- United Kingdom
+- United States
+- United States Minor Outlying Islands
+- Uruguay
+- U.S. Virgin Islands
+- Uzbekistan
+- Vanuatu
+- Vatican City
+- Venezuela
+- Wallis and Futuna
+- Western Sahara
+- Yemen
+- Zambia
+- Zimbabwe
+- Åland Islands
