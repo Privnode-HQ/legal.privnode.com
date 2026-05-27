@@ -1,6 +1,6 @@
 # Privnode Terms of Service
 
-Effective Date: February 5, 2026
+Effective Date: May 27, 2026
 
 These Terms of Service form a legally binding agreement between you, whether an individual, company, organization, or other legal entity using the Services, and Agent Velo, LLC, doing business as Privnode. In these Terms, "Customer," "User," or "you" means the person or entity using the Services, and "Provider," "we," "us," "our," "Privnode," or the "Company" means Agent Velo, LLC.
 
